@@ -1,0 +1,10 @@
+body {
+    background-image: url("bg1.jpg");
+}
+
+#jeef {
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+    background-color: white;
+}
